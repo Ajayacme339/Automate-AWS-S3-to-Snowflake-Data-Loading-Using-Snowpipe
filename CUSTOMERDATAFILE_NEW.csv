@@ -1,0 +1,11 @@
+ID,Name,Age,Address,Phone NUMBER,SALARY,RUNBY
+1,James Carter,29,"125 Oak Street, Cincinnati OH",555-0101,72000.00,ETL_BATCH_01
+2,Olivia Bennett,34,"246 Maple Avenue, Columbus OH",555-0102,81500.00,ETL_BATCH_01
+3,Liam Parker,41,"370 Pine Road, Dayton OH",555-0103,93500.00,ETL_BATCH_01
+4,Emma Wilson,27,"488 Cedar Lane, Cleveland OH",555-0104,68000.00,ETL_BATCH_01
+5,Noah Thompson,38,"512 Birch Drive, Toledo OH",555-0105,88000.00,ETL_BATCH_01
+6,Ava Martinez,31,"634 Walnut Street, Akron OH",555-0106,76500.00,ETL_BATCH_02
+7,William Harris,45,"755 Elm Avenue, Dublin OH",555-0107,102000.00,ETL_BATCH_02
+8,Sophia Clark,26,"826 Spruce Court, Mason OH",555-0108,64500.00,ETL_BATCH_02
+9,Benjamin Lewis,36,"947 Cherry Road, West Chester OH",555-0109,84500.00,ETL_BATCH_02
+10,Isabella Walker,33,"108 River Drive, Amelia OH",555-0110,79500.00,ETL_BATCH_02
